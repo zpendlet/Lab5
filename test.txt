@@ -1,1 +1,15 @@
 Test commit
+# Start with an updated branch
+git pull origin main
+
+# Make code changes
+# ...
+
+# Stage and commit changes
+git add .
+git commit -m ""
+
+# Push changes to GitHub
+git push origin main
+
+# Repeat the process as needed
