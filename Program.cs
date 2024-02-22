@@ -39,7 +39,7 @@ class Program
                 break;
             case "3":
                 Console.WriteLine("Bye!");
-                break;
+                return;
 
         }
 
