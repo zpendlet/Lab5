@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "12T811/Zct1xt9C5fDV9rWD5ZoKmoNgnRmCfd7v2mkJIsBNbNdYhEMNEmw48zjoxbKjq6sOrfqVLgyEWq9dnnA==",
+  "dgSpecHash": "mf0vjeYfJden62X5arW+81vevdlkEWzktyU2u5+S1DT50wNQIivTn8W+rJYZ/s1Aplbuk+Z1/9MOA244m2pxhA==",
   "success": true,
   "projectFilePath": "/Users/zoependleton/Desktop/ServerSide/Lab5/Lab5/Lab5.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/zoependleton/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
