@@ -51,7 +51,7 @@ class Program
         using (HttpClient client = new HttpClient())
         {
             //endpoint
-            string endpoint = "https://www.thecocktaildb.com/api/json/v1/{apiKey}/lookup.php?i={id}";
+            string endpoint = $"https://www.thecocktaildb.com/api/json/v1/{apiKey}/lookup.php?i={id}";
             HttpResponseMessage response = await client.GetAsync(endpoint);
 
             //response handling
